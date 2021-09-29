@@ -1,7 +1,9 @@
 # truecolor
 
 A better console color library for python
+
 [GitHub](https://github.com/chanchan69/truecolor/)
+
 [PyPI](https://pypi.org/project/truecolor.py/)
 
 ### Print Colored Text
