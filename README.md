@@ -17,3 +17,13 @@ print(f"{fg('magenta')}This {fg((255, 0, 0))}is{fg('magenta')} magenta text!{fg(
 
 ### Output
 ![alt text](https://media.discordapp.net/attachments/892129513213952010/892608621366632448/unknown.png)
+
+
+### Another Way
+```py
+from truecolor import colors
+from os import system
+
+system('cls')
+print(f"{colors.magenta}This {colors.red)}is{colors.magenta} magenta text!{reset}")
+```
