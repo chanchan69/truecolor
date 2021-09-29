@@ -14,3 +14,6 @@ from os import system
 system('cls')
 print(f"{fg('magenta')}This {fg((255, 0, 0))}is{fg('magenta')} magenta text!{fg('#ff8243')} This is the exact hex color #ff8243 :){reset}")
 ```
+
+### Output
+![alt text](https://media.discordapp.net/attachments/892129513213952010/892608621366632448/unknown.png)
