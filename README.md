@@ -21,7 +21,7 @@ print(f"{fg('magenta')}This {fg((255, 0, 0))}is{fg('magenta')} magenta text!{fg(
 
 ### Another Way
 ```py
-from truecolor import colors
+from truecolor import colors, reset
 from os import system
 
 system('cls')
